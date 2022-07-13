@@ -1,0 +1,13 @@
+2022-07-12 14:39:09,324 Calling str(pkt) on Python 3 makes no sense!
+2022-07-12 14:39:09,331 Packet length is same as preset 263
+2022-07-12 14:39:09,331 Ether destination  is same as preset 00:00:01:01:01:01
+2022-07-12 14:39:09,331 Ether source is same as preset 02:02:02:03:03:03
+2022-07-12 14:39:09,331 Ether type is same as preset 2048
+2022-07-12 14:39:09,331 UDP source port is same as preset 10000
+2022-07-12 14:39:09,332 UDP source destination is same as preset 9064
+2022-07-12 14:39:09,332 UDP source check sum is same as preset 1207
+2022-07-12 14:39:09,332 IP destination is same as preset 127.0.0.3
+2022-07-12 14:39:09,332 IP source is same as preset 127.0.0.1
+2022-07-12 14:39:09,332 byte26_32 is same as preset bytearray(b'\xaa\xbb\xcc\xdd\xff\xab\xac')
+2022-07-12 14:39:09,332 Input Message data is same as preset Networking Assignment with Scapy
+2022-07-12 14:39:09,332 Signature data is same as preset Submitted by Neeraj Dhurandher, SDET
